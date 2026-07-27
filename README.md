@@ -1,8 +1,11 @@
 # Ketchupad
 
 A macropad with 4x3 11 switches, 1 rotary switch encoder
-- This macropad will be frequently used paired with my macbook so I don't have to deal with the problem of remembering shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
-- I can also use the rotary encoder to change the LED's colors
+- This macropad will be frequently used paired with my macbook so I can use shortcuts in Fusion360, Kicad, opening tabs in chrome, and other software apps / tools
+- The rotary Encoder is used for changing the LED's RGB colors
+- The bottom case has a 15 degree tilt forward for visuals and less wrist movement
+- Black, Red, and White are colors used in this design
+- The 3D print includes the knob, top case, and bottom case. 
 
 Challenges
 - The worst part of this work was the firmware. The tutorial was hard to follow and a portion of making the QMK was vibecoded
@@ -21,8 +24,8 @@ resources that are necessary to make this hackpad
 - GrabCad
 - Hack Club
 - Fusion360
-- 3D Printer (not yet)
-- Soldering machine (not yet)
+- 3D Printer 
+- Soldering machine 
 
 
 BOM
@@ -55,7 +58,5 @@ CAD Case Model + PCB Model
 
 Extra
 - This macropad was inspired and funded by the Hack Club Hackpad Program
-- This project is not complete yet until I receive my products
 - This took way too long
-- I had to like vibecode downloading and following the turoial for the Firmware because I didn't understand anything
 
