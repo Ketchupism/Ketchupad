@@ -59,4 +59,5 @@ CAD Case Model + PCB Model
 Extra
 - This macropad was inspired and funded by the Hack Club Hackpad Program
 - This took way too long
+- Currently, this project inspired me to move on to creating an entire custom keyboard, with repository https://github.com/Ketchupism/ketchboard , or in my profile to check out the progress i've done.
 
